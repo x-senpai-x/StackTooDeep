@@ -1,0 +1,50 @@
+
+.header{
+  margin-top: 24px;
+  display: flex;
+  padding-left: 145px;
+  align-items: center;
+      border-bottom: solid 2px;
+      padding-bottom: 25px;
+      border-color: rgb(243, 243, 243);
+}
+.left-section{
+  display: flex;
+  flex:2.3;
+  align-items: center;
+  
+}
+.left-section img{
+  height: 25px; 
+}
+.home,.blog{
+  font-family: "Roboto",Arial, Helvetica, sans-serif;
+  vertical-align: middle;
+  margin-left: 30px;
+  font-size: 17px;
+  color: rgb(164, 159, 159);
+  font-weight: 500;
+  margin-top: 2px;
+}
+.blog{
+  margin-left: 20px;
+}
+.right-section{
+  display: flex;
+  flex:1;
+  align-items: center;
+  margin-right: 18px;
+}
+.notification-icon{
+  height: 20px;
+  width: 20px;
+  margin-right: 33px;
+}
+.avatar{
+  height: 20px;
+  margin-right: 13px;
+}
+.pf-name{
+  font-family: "Roboto",Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}

@@ -1,0 +1,56 @@
+.title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  border-bottom: solid 2px;
+  padding-bottom: 45px;
+  border-color: rgb(243, 243, 243);
+}
+.title img{
+  height: 80px;
+  width: 85px;
+  border-radius: 18px;
+}
+.titleName{
+  font-family: "Roboto";
+  font-size: 37px;
+  font-weight: 800;
+  margin-left: 23px;
+}
+.details{
+  padding-top: 11px;
+  border-bottom: solid 2px;
+  padding-bottom: 9px;
+  border-color: rgb(243, 243, 243);
+  display: flex;
+  justify-content: center;
+  
+}
+.container{
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px;
+  border-radius: 10px;
+  width: 620px;
+  
+  padding-right: 0px;
+  border: none;
+  background-color:rgb(240, 244, 255);
+}
+.containerdiv{
+  font-size: 13px;
+  font-family: "Roboto";
+  color: rgb(55, 112, 255);
+  font-weight: 600;
+  padding-left: 13px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 13px;
+  letter-spacing: 2px;
+}
+.containerdiv:hover{
+  background-color:  lightblue;
+}
