@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/StackTooDeep/static/css/main.4595cb65.css",
+    "main.js": "/StackTooDeep/static/js/main.3be888cf.js",
+    "static/js/453.924dc69f.chunk.js": "/StackTooDeep/static/js/453.924dc69f.chunk.js",
+    "static/media/mainimg.webp": "/StackTooDeep/static/media/mainimg.eabcf4a03461ca40af26.webp",
+    "static/media/logo.webp": "/StackTooDeep/static/media/logo.d3dda94b6991e37cd441.webp",
+    "static/media/notification-1-icon-404x512-88prt3ei.webp": "/StackTooDeep/static/media/notification-1-icon-404x512-88prt3ei.6278b99d5a6ca9f6614b.webp",
+    "static/media/notification-bell-icon.svg": "/StackTooDeep/static/media/notification-bell-icon.00318e8088c6c6fcf564383446a793c4.svg",
+    "index.html": "/StackTooDeep/index.html",
+    "main.4595cb65.css.map": "/StackTooDeep/static/css/main.4595cb65.css.map",
+    "main.3be888cf.js.map": "/StackTooDeep/static/js/main.3be888cf.js.map",
+    "453.924dc69f.chunk.js.map": "/StackTooDeep/static/js/453.924dc69f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4595cb65.css",
+    "static/js/main.3be888cf.js"
+  ]
+}
